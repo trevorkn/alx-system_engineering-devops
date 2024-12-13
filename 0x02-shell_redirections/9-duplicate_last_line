@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#script to duplicate last line
+
+tail -n 1 iacta >> iacta
